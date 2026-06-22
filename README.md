@@ -3,8 +3,8 @@ NIM  : 442023611048
 
 Berikut hasil memuat data teks dan menampilkan gambar secara live dari internet :
 
-![Screenshot App](images/1.jpeg)
-![Screenshot App](images/2.jpeg)
+![Screenshot App](image/1.jpeg)
+![Screenshot App](image/2.jpeg)
 
 Berikut Penjelasan singkat mengenai perbedaan karakteristik antara level perlindungan izin Normal Permission (seperti internet access) dengan Dangerous Permission dari sudut pandang interaksi pengguna (runtime prompt) :
 
